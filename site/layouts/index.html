@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ partial "hero" .Params.title .Params.subtitle .Params.introtext .Params.buttontext }}
+
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "short-text" .Params.blurb}}
