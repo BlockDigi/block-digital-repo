@@ -1,6 +1,8 @@
 ---
-title: "A new heading"
-subtitle: Support sustainable farming while enjoying a cup
+title: "E-Commerce Solutions"
+subtitle: Design for growing business
+introtext: "Introducing code-effective enterprise-level e-commerce Solutions designed for growing businesses"
+buttontext: "START GROWING"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
